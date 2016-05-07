@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.raywenderlich.com/category/ios'
 title: Ray Wenderlich
-datePublished: '2016-05-07T08:45:21.145Z'
-dateModified: '2016-05-07T08:34:51.475Z'
+datePublished: '2016-05-07T08:47:43.443Z'
+dateModified: '2016-05-07T08:47:22.835Z'
 starred: false
 sourcePath: _posts/2016-05-07-ray-wenderlich.md
 inFeed: true
