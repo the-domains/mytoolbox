@@ -1,0 +1,28 @@
+name: MyToolbox
+favicon: null
+layout_spectrum: 0.9588928257580847
+typography_spectrum: 0.8787845352198929
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7425595726817846
+  lightness: 0.48518141848035157
+  saturation: 0.7915683067403734
+  rhythmicContrast: 0.04936236538924277
+purpose: []
