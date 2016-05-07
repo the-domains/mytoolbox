@@ -4,8 +4,15 @@
         <description><![CDATA[MyToolbox]]></description>
         <link>https://thegrid.ai/mytoolbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 08:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 08:48:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mytoolbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Foundation Framework Reference]]></title>
+            <description><![CDATA[<article><h1>Foundation Framework Reference</h1><p>Describes the API used to define basic object types and behavior and ensure their consistency within a program.</p></article>]]></description>
+            <link>https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#//apple_ref/doc/uid/20001091</link>
+            <guid isPermaLink="false">b0362c65-d2fb-4732-9907-8c28a0da62cf</guid>
+            <pubDate>Sat, 07 May 2016 08:48:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prototyping Animations in Swift]]></title>
             <description><![CDATA[<article><h1>Prototyping Animations in Swift</h1><p>Motion software like After Effects are extremely powerful and an important part of any designers toolkit. But with any motion software the best you can hope for is an simulation of the actual experience. Prototyping with developer tools like Xcode aren't simulations, they are mini apps that will bring you as close to the final experience as you can possibly get.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/694c98fa6e083d382c919f115f78bded4dfc7b13.png"></article>]]></description>
