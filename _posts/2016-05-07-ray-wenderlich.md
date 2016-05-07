@@ -2,22 +2,22 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://www.raywenderlich.com/category/ios'
+isBasedOnUrl: 'https://www.raywenderlich.com/category/apple-game-frameworks'
 inLanguage: en
 keywords:
   - tutorial
-  - ios
+  - sprite
+  - kit
   - swift
-  - app
-  - uikit
+  - game
   - part
-  - getting
-  - started
-  - uicollectionview
-  - epic-length
-description: "Want to learn something about iOS development using Swift? We've got a tutorial for that!"
-datePublished: '2016-05-07T09:01:53.272Z'
-dateModified: '2016-05-07T09:00:07.998Z'
+  - making
+  - trigonometry
+  - scene
+  - ios
+description: 'If you are an experienced iOS developer but new to game development, we consider Sprite Kit the easiest way to get started.'
+datePublished: '2016-05-07T09:02:12.602Z'
+dateModified: '2016-05-07T09:00:34.174Z'
 author: []
 related: []
 app_links: []
@@ -34,4 +34,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ray Wenderlich</h1><p>Want to learn something about iOS development using Swift? We've got a tutorial for that!</p><img src="http://www.raywenderlich.com/wp-content/uploads/2014/11/WatchKit_01.jpg" /></article>
+<article style=""><h1>Ray Wenderlich</h1><p>If you are an experienced iOS developer but new to game development, we consider Sprite Kit the easiest way to get started.</p><img src="https://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/profile-page-products/w2t@2x.png" /></article>
