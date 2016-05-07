@@ -4,8 +4,15 @@
         <description><![CDATA[MyToolbox]]></description>
         <link>https://thegrid.ai/mytoolbox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 08:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 08:48:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mytoolbox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Controls]]></title>
+            <description><![CDATA[<article><h1>About Controls</h1><p>A control is a communication tool between a user and an app. Controls convey a particular action or intention to the app through user interaction, and can be used to manipulate content, provide user input, navigate within an app, or execute other pre-defined actions.</p></article>]]></description>
+            <link>https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/UIControl.html#//apple_ref/doc/uid/TP40012857-UIControl-SW1</link>
+            <guid isPermaLink="false">bc03915e-6168-454a-83a1-7a9454d45b5c</guid>
+            <pubDate>Sat, 07 May 2016 08:48:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UIKit Framework Reference]]></title>
             <description><![CDATA[<article><h1>UIKit Framework Reference</h1><p>Describes the primary API for implementing the user interface in an iOS app.</p></article>]]></description>
