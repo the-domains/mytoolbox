@@ -1,6 +1,6 @@
 name: MyToolbox
 favicon: null
-layout_spectrum: 0.9588928257580847
+layout_spectrum: 0.75322
 typography_spectrum: 0.8787845352198929
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5
+  brandStrength: 0.6875
   lightness: 0.48518141848035157
   saturation: 0.7915683067403734
   rhythmicContrast: 0
