@@ -16,8 +16,8 @@ keywords:
   - scene
   - ios
 description: 'If you are an experienced iOS developer but new to game development, we consider Sprite Kit the easiest way to get started.'
-datePublished: '2016-05-07T09:05:11.868Z'
-dateModified: '2016-05-07T09:04:18.109Z'
+datePublished: '2016-05-07T09:05:48.656Z'
+dateModified: '2016-05-07T09:05:32.673Z'
 author:
   - name: ''
     url: ''
